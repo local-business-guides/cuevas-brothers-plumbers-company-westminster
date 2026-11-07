@@ -23,6 +23,9 @@
 - [Licensed Plumber Westminster: A Homeowner’s Guide](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/licensed-plumber-westminster/): Need a Licensed Plumber Westminster homeowners can call any time? Get clear next steps for plumbing concerns in Westminster, Colorado. Call Cuevas Brothers to
 - [Trusted Plumber Westminster: What to Ask Before You Hire](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/trusted-plumber-westminster/): Choose a Trusted Plumber Westminster homeowners can reach day or night. Get practical guidance for your plumbing call in Westminster, Colorado. Call us today.
 
+## Newsroom
+- [Cuevas Brothers Plumbers Company Publishes Guide to Westminster Plumber](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/news/2026-11-07-cuevas-brothers-plumbers-company-publishes-guide/): Cuevas Brothers Plumbers Company has published a guide, a YouTube video and a podcast episode about Westminster Plumber. (2026-11-07)
+
 ## Pages
 - [Westminster Plumber in Colorado](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/): Get practical plumbing help and a clear next step from Cuevas Brothers Plumbers Company in Westminster. Call +1970-367-1649.
 - [About Cuevas Brothers Plumbers Company](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/about/): About Cuevas Brothers Plumbers Company, Westminster.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cuevas-brothers-plumbers-company-westminster/news/rss.xml)
 - [Main resource site](https://cuevas-brothers-westminster-plumbing.localbusinesses1.chatgpt.site)
